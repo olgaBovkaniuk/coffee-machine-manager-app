@@ -6,9 +6,9 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication
 @EnableSwagger2
-public class MyBootApplication {
+public class CoffeeMachineManagerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MyBootApplication.class, args);
+        SpringApplication.run(CoffeeMachineManagerApplication.class, args);
     }
 }
